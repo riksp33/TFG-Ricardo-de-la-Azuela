@@ -1,0 +1,27 @@
+{
+ "N_20": {
+  "youden": 0.425,
+  "param": 0.527,
+  "kernel_hscv": 0.295,
+  "auc": 0.314,
+  "kernel_opt": 0.538,
+  "LoC": 0.373
+ },
+ "N_100": {
+  "youden": 0.982,
+  "param": 0.996,
+  "kernel_hscv": 0.968,
+  "auc": 0.815,
+  "kernel_opt": 0.987,
+  "LoC": 0.99
+ },
+ "N_50": {
+  "youden": 0.777,
+  "param": 0.915,
+  "kernel_hscv": 0.708,
+  "auc": 0.549,
+  "kernel_opt": 0.873,
+  "LoC": 0.82
+ },
+ "title": "Resultados de nivel del test para distintos tamaños muestrales. Escenario 1"
+}
