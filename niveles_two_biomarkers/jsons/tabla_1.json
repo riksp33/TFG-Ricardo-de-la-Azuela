@@ -1,0 +1,49 @@
+{
+ "correlation_0.5": {
+  "N_20": {
+   "youden": 0.03,
+   "param": 0.08,
+   "kernel_hscv": 0.01,
+   "auc": 0.04,
+   "kernel_opt": 0.13
+  },
+  "N_100": {
+   "youden": 0.02,
+   "param": 0.05,
+   "kernel_hscv": 0.06,
+   "auc": 0.04,
+   "kernel_opt": 0.06
+  },
+  "N_50": {
+   "youden": 0.05,
+   "param": 0.02,
+   "kernel_hscv": 0.04,
+   "auc": 0.04,
+   "kernel_opt": 0.03
+  }
+ },
+ "correlation_0.0": {
+  "N_20": {
+   "youden": 0.05,
+   "param": 0.05,
+   "kernel_hscv": 0.04,
+   "auc": 0.09,
+   "kernel_opt": 0.1
+  },
+  "N_100": {
+   "youden": 0.08,
+   "param": 0.06,
+   "kernel_hscv": 0.06,
+   "auc": 0.05,
+   "kernel_opt": 0.07
+  },
+  "N_50": {
+   "youden": 0.05,
+   "param": 0.05,
+   "kernel_hscv": 0.04,
+   "auc": 0.03,
+   "kernel_opt": 0.04
+  }
+ },
+ "title": "Resultados de nivel del test 2 marcadores para distintos tamaños muestrales. Escenario 1"
+}
