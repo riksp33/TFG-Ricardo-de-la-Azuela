@@ -157,7 +157,7 @@ scenario_n_two_biomarkers(0.36, 0.74, 1, 1, FALSE, 5)
 scenario_n_two_biomarkers(0.36, 1.19, 1, 1, FALSE, 6)
 scenario_n_two_biomarkers(0.36, 1.81, 1, 1, FALSE, 7)
 scenario_n_two_biomarkers(0.74, 1.19, 1, 1, FALSE, 8)
-scenario_n_two_biomarkers(0.74, 1.81, 1, 1, FALSE, 8)
-scenario_n_two_biomarkers(1.19, 1.81, 1, 1, FALSE, 8)
+scenario_n_two_biomarkers(0.74, 1.81, 1, 1, FALSE, 9)
+scenario_n_two_biomarkers(1.19, 1.81, 1, 1, FALSE, 10)
 
 
